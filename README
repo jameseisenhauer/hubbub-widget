@@ -1,0 +1,11 @@
+Proof of concept hubbub Widget
+
+
+Code inserted into web page to show widget 
+
+script src="http://hubbub-widget-qa.herokuapp.com/sponsors/2.js" type="text/javascript"
+
+
+sample client @ /public/client.html
+
+
