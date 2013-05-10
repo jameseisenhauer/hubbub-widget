@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  sponsor_id: 1
+  name: MyString
+  num_players: 1
+  miles_walked: 1
+  push_ups: 1
+
+two:
+  sponsor_id: 1
+  name: MyString
+  num_players: 1
+  miles_walked: 1
+  push_ups: 1
